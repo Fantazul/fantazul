@@ -17,3 +17,6 @@ Having turned my hobby into a profession, I keep myself exploring new technologi
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+Note: As of 14/1 my Linkedin profile has been deactivated for undisclosed reason. I contacted support but I don't expect them to resolve this anytime soon.
+Until this issue is resolved I'll be using my GitHub profile as my professional profile.
